@@ -1,7 +1,7 @@
 bugzilla-gmail-tickets
 ======================
-# How to package
+## How to package
 mvn package
 
-# How to execute
+## How to execute
 mvn exec:java
